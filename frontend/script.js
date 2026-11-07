@@ -1,6 +1,6 @@
 
 // Backend API URL
-const API_URL = "http://localhost:5000/api/applications";
+const API_URL = "https://interntrack-backend-cyx8.onrender.com/api/applications";
 // Stores the ID of the application being edited
 let editingApplicationId = null;
 
